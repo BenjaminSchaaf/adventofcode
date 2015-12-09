@@ -1,6 +1,5 @@
 import std.file;
 import std.stdio;
-import std.algorithm;
 
 const fileName = "day1.txt";
 
