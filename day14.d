@@ -64,6 +64,4 @@ unittest {
 
     auto dancer = Reindeer("Dancer", 16, 11, 162);
     assert(dancer.getDistance(1000) == 1056);
-
-
 }

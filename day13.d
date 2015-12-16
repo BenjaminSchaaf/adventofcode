@@ -1,7 +1,6 @@
 import std.stdio;
 import std.range;
 import std.format;
-import std.typecons;
 import std.algorithm;
 
 const fileName = "day13.txt";
